@@ -10,7 +10,7 @@ PORT - 3000
 
 How to initialize/run your application (where applicable)
 e.g. npm start
-
+[herokudeployment](https://garrett-basic-api-server-main.herokuapp.com/)
 Tests
 How do you run tests?
 npm tests
